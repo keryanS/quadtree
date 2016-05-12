@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/keryanS/quadtree/issues"
   },
-  "homepage": "https://github.com/keryanS/quadtree#readme"
+  "homepage": "https://github.com/keryanS/quadtree#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
 }
