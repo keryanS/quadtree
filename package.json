@@ -1,0 +1,29 @@
+{
+  "name": "quadtree",
+  "version": "1.0.0",
+  "description": "QuadTree library, well tested and covered. Coded in JS",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keryanS/quadtree.git"
+  },
+  "keywords": [
+    "quadtree",
+    "tdd",
+    "js",
+    "agile",
+    "epsi"
+  ],
+  "author": "rhanbIT & keryanS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keryanS/quadtree/issues"
+  },
+  "homepage": "https://github.com/keryanS/quadtree#readme"
+}
